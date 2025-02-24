@@ -1,23 +1,35 @@
 POLÍTICA DE PRIVACIDAD
 
-El presente Política de Privacidad establece los términos en que Las Buenas Nuevas usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su aplicativo móvil. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+El presente Política de Privacidad establece los términos en que la aplicación denominada "Las Buenas Nuevas", a la cual de ahora en adelante nos referiremos simplemente como "la aplicación", usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su aplicativo móvil. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
 
-Información que es recogida
+Última actualización: 23/02/2025
 
-Nuestro aplicativo móvil podrá recoger información personal por ejemplo: Nombre, información de contacto como su dirección de correo electrónica e información demográfica. Esta información es requerida de manera voluntaria en la sección de Contacto.
+1. Información que recopilamos
+Nuestra aplicación recopila ciertos datos para mejorar la experiencia del usuario:
 
-Uso de la información recogida
+Firebase Analytics y Crashlytics: Recopilamos datos de uso y fallos para mejorar la estabilidad de la aplicación.
+Google AdMob: Usamos anuncios en la aplicación, que pueden recopilar datos de publicidad anónimos.
+Correo electrónico: Si eliges contactarnos a través del botón de contacto, tu dirección de correo será utilizada únicamente para responderte.
+Favoritos locales: Los usuarios pueden guardar publicaciones como favoritas. Esta información se almacena únicamente en el dispositivo y se borra al desinstalar la app.
 
-Nuestro aplicativo móvil emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener una comunicación con quién nos contacte si así lo desea. Es posible que sean enviados correos electrónicos a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
+2. Datos compartidos con terceros
+La aplicación usa servicios de terceros que pueden recopilar información:
 
-Las Buenas Nuevas está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
+Google Firebase (Analytics y Crashlytics)
+Google AdMob (Publicidad personalizada)
+Google Blogger API (para obtener publicaciones)
+Google YouTube API (para mostrar videos)
+Spotify y Anchor (para mostrar podcasts)
+No compartimos datos con otros terceros fuera de Google.
 
-Enlaces a Terceros
+3. Seguridad y cifrado
+Todos los datos recopilados se cifran en tránsito utilizando los protocolos de seguridad de Google.
 
-Este aplicativo móvil pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra aplicativo, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
+4. Eliminación de datos
+Como la app no requiere cuentas de usuario, no almacenamos información personal del usuario. Sin embargo, si deseas solicitar la eliminación de algún dato asociado a Firebase Analytics o AdMob, puedes contactarnos en noreply.buenasnuevas@gmail.com
 
-Control de su información personal
+5. Cambios en la política
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Cualquier cambio será notificado dentro de la aplicación o en este documento.
 
-Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.
-
-Las Buenas Nuevas Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
+Contacto:
+Si tienes preguntas sobre nuestra política de privacidad, puedes contactarnos en noreply.buenasnuevas@gmail.com.
