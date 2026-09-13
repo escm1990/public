@@ -1,35 +1,104 @@
-POLÍTICA DE PRIVACIDAD
+# POLÍTICA DE PRIVACIDAD
 
-El presente Política de Privacidad establece los términos en que la aplicación denominada "Las Buenas Nuevas", a la cual de ahora en adelante nos referiremos simplemente como "la aplicación", usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su aplicativo móvil. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+**Última actualización: 12/09/2026**
 
-Última actualización: 23/02/2025
+La aplicación denominada **“Las Buenas Nuevas”**, en adelante “la aplicación”, proporciona acceso a publicaciones, videos, podcasts y otros contenidos relacionados con su propósito informativo y religioso.
 
-1. Información que recopilamos
-Nuestra aplicación recopila ciertos datos para mejorar la experiencia del usuario:
+La aplicación no requiere que el usuario cree una cuenta ni solicita directamente datos personales para utilizar sus funciones principales.
 
-Firebase Analytics y Crashlytics: Recopilamos datos de uso y fallos para mejorar la estabilidad de la aplicación.
-Google AdMob: Usamos anuncios en la aplicación, que pueden recopilar datos de publicidad anónimos.
-Correo electrónico: Si eliges contactarnos a través del botón de contacto, tu dirección de correo será utilizada únicamente para responderte.
-Favoritos locales: Los usuarios pueden guardar publicaciones como favoritas. Esta información se almacena únicamente en el dispositivo y se borra al desinstalar la app.
+Esta Política de Privacidad explica qué información puede ser procesada durante el uso de la aplicación y qué servicios de terceros se encuentran integrados.
 
-2. Datos compartidos con terceros
-La aplicación usa servicios de terceros que pueden recopilar información:
+## 1. Información que puede ser procesada
 
-Google Firebase (Analytics y Crashlytics)
-Google AdMob (Publicidad personalizada)
-Google Blogger API (para obtener publicaciones)
-Google YouTube API (para mostrar videos)
-Spotify y Anchor (para mostrar podcasts)
-No compartimos datos con otros terceros fuera de Google.
+### Servicios de Google Firebase
 
-3. Seguridad y cifrado
-Todos los datos recopilados se cifran en tránsito utilizando los protocolos de seguridad de Google.
+La aplicación utiliza determinados servicios de **Google Firebase**, incluyendo Firebase Analytics y Firebase Crashlytics.
 
-4. Eliminación de datos
-Como la app no requiere cuentas de usuario, no almacenamos información personal del usuario. Sin embargo, si deseas solicitar la eliminación de algún dato asociado a Firebase Analytics o AdMob, puedes contactarnos en noreply.buenasnuevas@gmail.com
+Estos servicios pueden procesar información técnica y relacionada con el uso de la aplicación, así como información asociada a errores o fallos, con el propósito de obtener estadísticas, mejorar el funcionamiento y contribuir a la estabilidad de la aplicación.
 
-5. Cambios en la política
-Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Cualquier cambio será notificado dentro de la aplicación o en este documento.
+La información procesada por estos servicios puede incluir datos técnicos del dispositivo, información relacionada con el uso de la aplicación, identificadores técnicos y datos relacionados con errores o fallos.
 
-Contacto:
-Si tienes preguntas sobre nuestra política de privacidad, puedes contactarnos en noreply.buenasnuevas@gmail.com.
+La aplicación no solicita directamente al usuario información como nombre, dirección, número telefónico o datos de una cuenta para utilizar sus funciones principales.
+
+### Google AdMob
+
+La aplicación utiliza **Google AdMob** para mostrar anuncios.
+
+AdMob puede recopilar y procesar información relacionada con el dispositivo, la publicidad y el uso de la aplicación para proporcionar, medir y mejorar los servicios publicitarios, de acuerdo con las políticas y condiciones de Google.
+
+La aplicación no solicita directamente al usuario datos personales con fines publicitarios.
+
+### Publicaciones y contenido externo
+
+La aplicación utiliza servicios de Google, incluyendo **Blogger API** y **YouTube API**, para obtener y mostrar contenido.
+
+Cuando el usuario utiliza la función de búsqueda de publicaciones, el texto introducido en dicha búsqueda puede ser enviado a los servicios de Blogger para realizar la consulta solicitada.
+
+La aplicación no almacena dicho texto de búsqueda en una cuenta del usuario ni en una base de datos propia, según el funcionamiento actual de la aplicación.
+
+Asimismo, la aplicación proporciona enlaces hacia servicios externos como Facebook, Instagram, LinkedIn, YouTube, Spotify y otros sitios relacionados. Cuando el usuario accede a estos servicios, el tratamiento de información queda sujeto a las políticas de privacidad y condiciones de cada proveedor.
+
+### Correo electrónico
+
+La aplicación dispone de una función que permite al usuario iniciar el envío de un correo electrónico.
+
+Al utilizar esta función, la aplicación abre el cliente de correo electrónico disponible en el dispositivo y prepara un mensaje dirigido a la dirección de contacto de “Las Buenas Nuevas”.
+
+La aplicación no dispone de un formulario propio para recopilar la dirección de correo electrónico del usuario ni recibe directamente el contenido del mensaje que el usuario redacte. El usuario decide si desea completar y enviar el mensaje mediante el cliente de correo electrónico que utilice.
+
+### Favoritos
+
+La aplicación permite guardar publicaciones como favoritas.
+
+Los favoritos se almacenan **localmente en el dispositivo del usuario**, mediante el almacenamiento local de la propia aplicación. Esta información incluye los datos necesarios para identificar y mostrar la publicación seleccionada, como su código, título, URL y contenido.
+
+Según el funcionamiento actual de la aplicación, estos favoritos no se sincronizan con una cuenta del usuario ni se almacenan en un servidor propio.
+
+La información almacenada localmente puede eliminarse al desinstalar la aplicación o mediante los mecanismos de administración de datos del dispositivo.
+
+## 2. Servicios de terceros
+
+La aplicación utiliza o se integra con servicios de terceros para proporcionar determinadas funciones, entre ellos:
+
+* **Google Firebase Analytics**, para estadísticas y análisis del uso de la aplicación.
+* **Google Firebase Crashlytics**, para información relacionada con errores y fallos de la aplicación.
+* **Google AdMob**, para mostrar publicidad.
+* **Google Blogger API**, para obtener publicaciones.
+* **Google YouTube API**, para obtener y mostrar contenido de YouTube.
+* **Spotify, Facebook, Instagram, LinkedIn y otros servicios externos**, mediante enlaces que permiten al usuario acceder a dichos servicios.
+
+Estos proveedores pueden procesar información de acuerdo con sus propias políticas de privacidad y condiciones de servicio.
+
+La aplicación no vende los datos personales de sus usuarios.
+
+## 3. Almacenamiento y seguridad
+
+La aplicación no mantiene cuentas de usuario ni una base de datos propia destinada a almacenar información personal de los usuarios.
+
+Los favoritos se almacenan localmente en el dispositivo.
+
+Las comunicaciones con los servicios externos utilizados por la aplicación se realizan, cuando el servicio correspondiente lo permite, mediante conexiones seguras. No obstante, la seguridad y el tratamiento de la información por servicios de terceros también están sujetos a las medidas y políticas de seguridad de dichos proveedores.
+
+## 4. Eliminación y control de datos
+
+La aplicación no proporciona cuentas de usuario que requieran un procedimiento de eliminación de cuenta.
+
+Los datos almacenados localmente por la aplicación, como los favoritos, pueden eliminarse mediante la desinstalación de la aplicación o mediante las opciones de administración de almacenamiento del dispositivo.
+
+La información que pueda ser procesada por servicios de terceros como Google Firebase o Google AdMob se encuentra sujeta a las políticas y mecanismos de privacidad y eliminación proporcionados por dichos servicios.
+
+Si tienes alguna consulta relacionada con el tratamiento de información por parte de la aplicación, puedes comunicarte con nosotros mediante:
+
+**[noreply.buenasnuevas@gmail.com](mailto:noreply.buenasnuevas@gmail.com)**
+
+## 5. Cambios en esta Política de Privacidad
+
+Esta Política de Privacidad puede ser actualizada cuando resulte necesario para reflejar cambios en la aplicación, en los servicios utilizados o en los requisitos legales aplicables.
+
+La fecha de la última actualización se indicará al inicio de este documento.
+
+## 6. Contacto
+
+Si tienes preguntas, comentarios o inquietudes relacionadas con esta Política de Privacidad o con el tratamiento de información asociado a la aplicación **“Las Buenas Nuevas”**, puedes contactarnos en:
+
+**[noreply.buenasnuevas@gmail.com](mailto:noreply.buenasnuevas@gmail.com)**
